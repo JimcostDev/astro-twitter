@@ -1,4 +1,6 @@
-# Astro Starter Kit: Basics
+# Twitter UI Design with Astro
+
+Este proyecto desarrolla el diseño de una aplicación cliente de Twitter utilizando Astro y TailwindCSS, como solución a una actividad de la asignatura Ingeniería del Software Avanzada de la UNIR.
 
 ```sh
 npm create astro@latest -- --template basics
